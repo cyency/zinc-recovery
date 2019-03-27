@@ -1,5 +1,4 @@
-data/all_test.csv
-data/all_train.csv
+data/*.csv
 
 notebook/.ipynb_checkpoints/
 *.swp
